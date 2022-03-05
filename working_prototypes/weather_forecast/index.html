@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://kit.fontawesome.com/638d441c12.js" crossorigin="anonymous"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Roboto+Slab&family=Ruda:wght@400;500;700&display=swap" rel="stylesheet">
+    <title>calculator layout</title>
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            fontFamily: {
+              ruda: 'Ruda, sans-serif',
+              roboto: 'Roboto Slab, serif'
+            }
+          },
+        },
+      };
+    </script>
+  </head>
+  <body>
+		<div class="h-screen flex items-center bg-yellow-50">
+			<div class="flex flex-col p-16 bg-white w-full border-amber-300 border-y-4">
+				<div class="flex justify-center font-ruda text-2xl text-gray-600 mb-2">Brooklyn, NY - 5 Day Forecast</div>
+				<div flex class="flex justify-center items-center">
+					<div class="border border-gray-200 m-8 w-48 flex flex-col items-center bg-white p-4 rounded-lg shadow-lg font-roboto">
+						<div class="font-ruda text-2xl text-gray-800 font-medium">Monday</div>
+						<div class="font-ruda text-lg text-gray-500 font-medium mb-2">April 4</div>
+						<i class="fa-solid fa-sun text-6xl text-amber-500 my-2"></i>
+						<div class="text-gray-600 text-lg my-1">Sunny</div>
+						<div class="flex justify-center">
+							<div class="m-1 text-gray-600">67°</div>
+							<div class="m-1 text-gray-500">58°</div>
+						</div>
+					</div>
+					<div class="border border-gray-200 m-8 w-48 flex flex-col items-center bg-white p-4 rounded-lg shadow-lg font-roboto">
+						<div class="font-ruda text-2xl text-gray-800 font-medium">Tuesday</div>
+						<div class="font-ruda text-lg text-gray-500 font-medium mb-2">April 5</div>
+						<i class="fa-solid fa-clouds text-6xl text-slate-400 my-2"></i>
+						<div class="text-gray-600 text-lg my-1">Cloudy</div>
+						<div class="flex justify-center">
+							<div class="m-1 text-gray-600">59°</div>
+							<div class="m-1 text-gray-500">52°</div>
+						</div>
+					</div>
+					<div class="border border-gray-200 m-8 w-48 flex flex-col items-center bg-white p-4 rounded-lg shadow-lg font-roboto">
+						<div class="font-ruda text-2xl text-gray-800 font-medium">Wednesday</div>
+						<div class="font-ruda text-lg text-gray-500 font-medium mb-2">April 6</div>
+						<i class="fa-solid fa-wind text-6xl text-cyan-400 my-2"></i>
+						<div class="text-gray-600 text-lg my-1">High Winds</div>
+						<div class="flex justify-center">
+							<div class="m-1 text-gray-600">55°</div>
+							<div class="m-1 text-gray-500">52°</div>
+						</div>
+					</div>
+					<div class="border border-gray-200 m-8 w-48 flex flex-col items-center bg-white p-4 rounded-lg shadow-lg font-roboto">
+						<div class="font-ruda text-2xl text-gray-800 font-medium">Thursday</div>
+						<div class="font-ruda text-lg text-gray-500 font-medium mb-2">April 7</div>
+						<i class="fa-solid fa-snowflake text-6xl text-blue-300 my-2"></i>
+						<div class="text-gray-600 text-lg my-1">Snow</div>
+						<div class="flex justify-center">
+							<div class="m-1 text-gray-600">31°</div>
+							<div class="m-1 text-gray-500">24°</div>
+						</div>
+					</div>
+					<div class="border border-gray-200 m-8 w-48 flex flex-col items-center bg-white p-4 rounded-lg shadow-lg font-roboto">
+						<div class="font-ruda text-2xl text-gray-800 font-medium">Friday</div>
+						<div class="font-ruda text-lg text-gray-500 font-medium mb-2">April 8</div>
+						<i class="fa-solid fa-sun text-6xl text-amber-500 my-2"></i>
+						<div class="text-gray-600 text-lg my-1">Sunny</div>
+						<div class="flex justify-center">
+							<div class="m-1 text-gray-600">62°</div>
+							<div class="m-1 text-gray-500">60°</div>
+						</div>
+					</div>		
+				</div>
+		</div>
+		</div>
+  </body>
+</html>
