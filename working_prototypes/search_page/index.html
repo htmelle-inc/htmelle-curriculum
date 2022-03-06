@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://kit.fontawesome.com/638d441c12.js" crossorigin="anonymous"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500&family=Roboto+Condensed&display=swap" rel="stylesheet">
+    <title>search page</title>
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            fontFamily: {
+              ruda: 'Fredoka, sans-serif',
+              roboto: 'Roboto condensed, serif'
+            }
+          },
+        },
+      };
+    </script>
+  </head>
+  <body>
+		<div class="h-screen flex flex-col font-roboto bg-stone-50">
+			<div class="h-24 flex justify-between px-8 text-neutral-500 text-lg bg-orange-100">
+				<div class="flex items-center">
+					<div class="mx-3">About</div>
+					<div class="mx-3">Bake Shop</div>
+				</div>
+				<div class="flex items-center">
+					<div class="mx-3">Categories</div>
+					<div class="mx-3">Favorites</div>
+					<button class="mx-3 px-4 py-2 rounded-md bg-lime-400 hover:bg-lime-500 text-white font-ruda text-xl">Sign In</button>
+				</div>
+			</div>
+			<div class="flex-1 flex justify-center items-center">
+				<div class="flex flex-col items-center w-full">
+					<div class="font-ruda text-8xl font-medium text-orange-300 m-4">Strudel</div>
+					<div class="text-xl text-neutral-500">(it's like google, but for desserts)</div>
+					<div class="rounded-full border-2 border-neutral-300 p-2 w-full max-w-3xl m-6 bg-white flex items-center">
+						<i class="fa-solid fa-magnifying-glass text-lime-500 text-3xl mt-1 ml-1"></i>
+						<input class="flex-1 text-xl mx-4 px-2">
+					</div>
+					<div>
+						<button class="mx-3 px-4 py-2 rounded-md bg-orange-300 hover:bg-orange-400 text-white font-ruda text-lg">Search for Desserts</button>
+						<button class="mx-3 px-4 py-2 rounded-md bg-orange-300 hover:bg-orange-400 text-white font-ruda text-lg">I'm Feeling Lucky</button>
+					</div>
+				</div>
+			</div>
+			<div class="bg-stone-200 flex flex-col pt-6 pb-2 px-16 text-neutral-500">
+				<div class="flex justify-center items-center">Baked with <i class="fa-solid fa-heart text-rose-300 mx-1"></i> in SF</div>
+				<div class="flex justify-between">				
+					<div class="flex">
+						<div class="mx-4">Support</div>
+						<div class="mx-4">Partnerships</div>
+					</div>
+					<div class="flex">
+						<div class="mx-4">Privacy</div>
+						<div class="mx-4">Terms</div>
+						<div class="mx-4">Settings</div>
+					</div>
+				</div>
+			</div>
+		</div>
+  </body>
+</html>
