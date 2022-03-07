@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://kit.fontawesome.com/638d441c12.js" crossorigin="anonymous"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Catamaran&family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+    <title>recipe list</title>
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            fontFamily: {
+              lato: 'Lato, sans-serif',
+              catamaran: 'Catamaran, sans-serif'
+            }
+          },
+        },
+      };
+    </script>
+  </head>
+  <body>
+		<div class="flex flex-col justify-center items-center py-40 bg-gradient-to-r from-rose-400 to-orange-400">
+			<div class="text-6xl font-lato font-semibold italic text-white my-4">Feeling hungry?</div>
+			<div class="text-2xl font-catamaran text-gray-100">Explore cuisines. Discover food. Find the best recipes from around the web.</div>
+		</div>
+		<div class="py-24 flex justify-around px-16 flex-wrap bg-slate-50">
+			<div class="flex flex-col rounded-lg shadow-md bg-white w-80 mx-24 my-8 border border-slate-200">
+				<img 
+					class="rounded-t-lg object-cover h-64"
+					src="https://img.delicious.com.au/tkw2IWA6/w759-h506-cfill/del/2021/07/moroccan-spiced-lamb-pilaf-155009-2.jpg" 
+				/>
+				<div class="flex-1 rounded-b-lg px-8 py-6 flex flex-col justify-between">
+					<div class="font-lato italic text-2xl font-bold text-orange-600">Spiced lamb pilaf</div>
+					<div class="font-catamaran text-lg text-gray-500 my-4">
+						Pilaf is a rice dish whose recipe involves cooking in broth with added spices, vegetables, and meat.
+					</div>
+					<div class="flex font-catamaran text-lg justify-between">
+						<button class="py-2 w-5/12 border-2 border-rose-400 text-rose-500 rounded-md font-bold cursor-pointer hover:bg-orange-100">View</button> 
+						<button class="py-2 w-5/12 border-2 border-rose-400 text-rose-500 rounded-md font-bold cursor-pointer hover:bg-orange-100">Favorite</button>
+					</div>
+				</div>
+			</div>
+			<div class="flex flex-col rounded-lg shadow-md bg-white w-80 mx-24 my-8 border border-slate-200">
+				<img 
+					class="rounded-t-lg object-cover h-64"
+					src="https://imagesvc.meredithcorp.io/v3/mm/image?q=60&c=sc&poi=face&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8459611.jpg" 
+				/>
+				<div class="flex-1 rounded-b-lg px-8 py-6 flex flex-col justify-between">
+					<div class="font-lato italic text-2xl font-bold text-orange-600">Oven-"Fried" Chicken</div>
+					<div class="font-catamaran text-lg text-gray-500 my-4">
+						These oven-“fried” chicken thighs are a perfect go-to dinner. Budget friendly. Add rice for a complete meal.
+					</div>
+					<div class="flex font-catamaran text-lg justify-between">
+						<button class="py-2 w-5/12 border-2 border-rose-400 text-rose-500 rounded-md font-bold cursor-pointer hover:bg-orange-100">View</button> 
+						<button class="py-2 w-5/12 border-2 border-rose-400 text-rose-500 rounded-md font-bold cursor-pointer hover:bg-orange-100">Favorite</button>
+					</div>
+				</div>
+			</div>
+			<div class="flex flex-col rounded-lg shadow-md bg-white w-80 mx-24 my-8 border border-slate-200">
+				<img 
+					class="rounded-t-lg object-cover h-64"
+					src="https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2019/12/Shepherds-Pie-8.jpg" 
+				/>
+				<div class="flex-1 rounded-b-lg px-8 py-6 flex flex-col justify-between">
+					<div class="font-lato italic text-2xl font-bold text-orange-600">Shepherd's Pie</div>
+					<div class="font-catamaran text-lg text-gray-500 my-4">
+						This incredibly hearty, restaurant worthy, comforting shepherd's pie recipe does not disappoint!
+					</div>
+					<div class="flex font-catamaran text-lg justify-between">
+						<button class="py-2 w-5/12 border-2 border-rose-400 text-rose-500 rounded-md font-bold cursor-pointer hover:bg-orange-100">View</button> 
+						<button class="py-2 w-5/12 border-2 border-rose-400 text-rose-500 rounded-md font-bold cursor-pointer hover:bg-orange-100">Favorite</button>
+					</div>
+				</div>
+			</div>
+			<div class="flex flex-col rounded-lg shadow-md bg-white w-80 mx-24 my-8 border border-slate-200">
+				<img 
+					class="rounded-t-lg object-cover h-64"
+					src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Eq_it-na_pizza-margherita_sep2005_sml.jpg" 
+				/>
+				<div class="flex-1 rounded-b-lg px-8 py-6 flex flex-col justify-between">
+					<div class="font-lato italic text-2xl font-bold text-orange-600">Homemade Pizza</div>
+					<div class="font-catamaran text-lg text-gray-500 my-4">
+						This is a classic homemade pizza recipe, including a pizza dough recipe, topping suggestions, and step-by-step instructions.
+					</div>
+					<div class="flex font-catamaran text-lg justify-between">
+						<button class="py-2 w-5/12 border-2 border-rose-400 text-rose-500 rounded-md font-bold cursor-pointer hover:bg-orange-100">View</button> 
+						<button class="py-2 w-5/12 border-2 border-rose-400 text-rose-500 rounded-md font-bold cursor-pointer hover:bg-orange-100">Favorite</button>
+					</div>
+				</div>
+			</div>
+			<div class="flex flex-col rounded-lg shadow-md bg-white w-80 mx-24 my-8 border border-slate-200">
+				<img 
+					class="rounded-t-lg object-cover h-64"
+					src="https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2018/04/Carne-Asada-Tacos-main-3.jpg" 
+				/>
+				<div class="flex-1 rounded-b-lg px-8 py-6 flex flex-col justify-between">
+					<div class="font-lato italic text-2xl font-bold text-orange-600">Carne Asada Tacos</div>
+					<div class="font-catamaran text-lg text-gray-500 my-4">
+						Carne asada tacos are delicious flank steak, Mexican-inspired street tacos!
+					</div>
+					<div class="flex font-catamaran text-lg justify-between">
+						<button class="py-2 w-5/12 border-2 border-rose-400 text-rose-500 rounded-md font-bold cursor-pointer hover:bg-orange-100">View</button> 
+						<button class="py-2 w-5/12 border-2 border-rose-400 text-rose-500 rounded-md font-bold cursor-pointer hover:bg-orange-100">Favorite</button>
+					</div>
+				</div>
+			</div>
+			<div class="flex flex-col rounded-lg shadow-md bg-white w-80 mx-24 my-8 border border-slate-200">
+				<img 
+					class="rounded-t-lg object-cover h-64"
+					src="https://images.food52.com/hHk7_GsaqAmLbkLthbsngX71wlc=/750x500/2706eae4-f100-426b-9f2f-e8b01e2c195f--Vegetable-Dumpling-F52Post.jpg" 
+				/>
+				<div class="flex-1 rounded-b-lg px-8 py-6 flex flex-col justify-between">
+					<div class="font-lato italic text-2xl font-bold text-orange-600">Veggie Dumplings</div>
+					<div class="font-catamaran text-lg text-gray-500 my-4">
+						This recipe uses cabbage, carrot and edamame, but feel free to play around with whatever ingredients you have in the fridge.
+					</div>
+					<div class="flex font-catamaran text-lg justify-between">
+						<button class="py-2 w-5/12 border-2 border-rose-400 text-rose-500 rounded-md font-bold cursor-pointer hover:bg-orange-100">View</button> 
+						<button class="py-2 w-5/12 border-2 border-rose-400 text-rose-500 rounded-md font-bold cursor-pointer hover:bg-orange-100">Favorite</button>
+					</div>
+				</div>
+			</div>
+		</div>
+  </body>
+</html>
