@@ -85,7 +85,7 @@ Recall that a `button` is made with:
 
 After adding these things, you may notice that some of the elements are sharing lines. Make the box have `flex flex-col` to ensure that all things stack vertically.
 
-In the first box, also add `div`s for the "Log in with Facebook" and "Forgot password?" messages. The second box just needs a `div` for "Don't have an account? Sign Up".
+In the first box, also add `div`s for the "Log in with Facebook" and "Forgot password?" messages.
 
 It won't look pretty for now but the skeleton of our form will look similar to this:
 
