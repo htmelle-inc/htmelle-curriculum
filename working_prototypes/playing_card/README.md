@@ -48,7 +48,7 @@ Don't be overwhelmed by the starter code! The starter code includes configuratio
 
 ### Creating a blank card
 
-![creating](./images/phase_1_creating.png)
+![creating](./images/phase_1_1.png)
 
 Let's start simple. Our goal is to create a single rectangle in the center of the screen. Delete the `"let's play cards"` text in the body and create a `div`. Be sure to include the opening and closing tags for this `div`! This initial `div` will be the outer container that takes up the full screen (it's the light blue shaded part in the [final product](#playing-card-project)). You can use class `h-screen` to make the `div` take up the full height of the screen. Use a color class to give it background color. We used `bg-slate-200` for our background color, but you can use another [color that you like](https://tailwindcss.com/docs/customizing-colors#default-color-palette).
 
@@ -78,7 +78,7 @@ Like we saw in the approach video, we can conceptualize a playing card as having
 
 Create three `div`s to represent these rows inside of your card. Give them each a temporary border so you can see where they lie. Put some placeholder text in each div, so can play with the alignment:
 
-![creating](./images/phase_2_stubbing.png)
+![creating](./images/phase_2_1.png)
 
 Let's work on the horizontal alignment of the text. Give each of the 3 `div`s the `flex` class. The left text is already good. But the middle and right texts need some work. Recall that `justify-center` will position horizontally. `justify-end` will position all the way to the right.  
 
