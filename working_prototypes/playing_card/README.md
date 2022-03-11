@@ -54,12 +54,12 @@ Let's start simple. Our goal is to create a single rectangle in the center of th
 
 Now time to make a simple card. No tricks here. We just want a rectangle that is more tall than it is wide. Create a new `div` that will represent our card. You should place it within the background div that you made just previously. Set the width and height using classes `w-80` and `h-96`. If you want different dimensions of your card, feel free to play around with different [widths](https://tailwindcss.com/docs/width#fixed-widths) and [heights](https://tailwindcss.com/docs/height#fixed-heights). Finally, apply a background color to the card div, we used `bg-white`.
 
-Give your card a thick, black border with `border-8` and choose a dark [border color](https://tailwindcss.com/docs/border-color). We used `border-stone-800`. Finally, let's round those corners with `rounded-lg`. If you want sharper corners, play with other [rounded styles](https://tailwindcss.com/docs/border-radius#rounded-corners).
+Give your card a thick border with `border-8` and choose a dark [border color](https://tailwindcss.com/docs/border-color). We used `border-stone-800`. Finally, let's round those corners with `rounded-lg`. If you want sharper corners, play with other [rounded styles](https://tailwindcss.com/docs/border-radius#rounded-corners).
 
 
 ### Centering the card
 
-To center the card, we'll want to add classes to it's parent `div`. Add the class `flex` to turn it into a flexbox. Then add `justify-center` to center it horizontally. Add `items-center` to center it vertically. Done.
+To center the card, we'll want to add classes to it's parent `div`. We should add the class `flex` to the background `div`. Then add `justify-center` to center it horizontally. Add `items-center` to center it vertically. Done.
 
 > Check In: Make sure your card is centered in the screen before moving on. Ask a teaching assistant for help if you are stuck.
 
@@ -101,6 +101,6 @@ Finally let's add a nice icon to the middle, we chose a diamond, but you can sea
 ![phase_2_3](./images/phase_2_3.png)
 
 
-Nice! Add a few more cards with different colors/values. Once you have more than one card, you'll notice that the cards are touching. We'd probably want some space between them for a clean look. You can fix this by modifying a `justify-?` property somewhere, we'll leave that detail for you to figure out. 
+Nice! Add a few more cards with different colors/values. Once you have more than one card, you'll notice that the cards are touching. We'd probably want some space between them for a clean look. You can fix this by modifying a `justify-?` property somewhere; we'll leave that detail for you to figure out. 
 
 Voila! A hand of cards. Magic tricks not included.
