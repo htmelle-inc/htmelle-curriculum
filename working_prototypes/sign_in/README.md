@@ -22,14 +22,14 @@ Create a `index.html` and begin with this starter code:
     <script src="https://kit.fontawesome.com/638d441c12.js" crossorigin="anonymous"></script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-		<link href="https://fonts.googleapis.com/css2?family=Catamaran&family=Pacifico&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Catamaran&family=Pacifico&display=swap" rel="stylesheet">
     <title>sign in</title>
     <script>
       tailwind.config = {
         theme: {
           extend: {
             fontFamily: {
-							pacifico: 'Pacifico, cursive'
+              pacifico: 'Pacifico, cursive'
             }
           },
         },
@@ -37,7 +37,7 @@ Create a `index.html` and begin with this starter code:
     </script>
   </head>
   <body>
-		let's build a sign-in
+    let's build a sign-in
   </body>
 </html>
 ```
