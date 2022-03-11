@@ -9,6 +9,7 @@ In this project, we'll be creating playing cards. The finished product will look
 In this initial phase, we'll create a blank card.
 
 ### Starter code
+
 Start by creating our document. Create `index.html` and paste the following starter code:
 
 ```html
