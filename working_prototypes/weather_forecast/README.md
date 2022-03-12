@@ -44,7 +44,7 @@ Begin with the following starter code for your `index.html`. We've included some
 ```
 
 
-Let's start by stubbing out out a colored background `div` that takes up the full screen height. Like usual you can do this by specifying `h-screen`. Choose a [background color](https://tailwindcss.com/docs/background-color) you like; we chose `bg-yellow-50`. 
+Let's start by stubbing out a colored background `div` that takes up the full screen height. Like usual you can do this by specifying `h-screen`. Choose a [background color](https://tailwindcss.com/docs/background-color) you like; we chose `bg-yellow-50`. 
 
 Create another `div` inside of background div. To center it within the background, add `flex items-center` to the parent. Place another `div` containing location text within the inner `div` for now. Add some [padding](https://tailwindcss.com/docs/padding) to the inner `div`. Take some time to adjust the text to your liking. We applied a temporary purple border to the location text for now:
 
@@ -56,7 +56,7 @@ You may notice that our centered `div` has a dark yellow border only on the top 
 
 Eventually we want to hold multiple weather cards. To account for this, we should create a new container `div` below the title. Give it a temporary border.
 
-Add another `div` with `w-40` or similar as the first weather card in that container. After some basic centering, margin, and padding. We'll want to end up with a skeleton that looks like:
+Add another `div` with `w-40` or similar as the first weather card in that container. After some basic centering, margin, and padding, we'll want to end up with a skeleton that looks like:
 
 ![phase_1_2](./images/phase_1_2.png)
 
