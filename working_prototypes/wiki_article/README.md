@@ -69,7 +69,7 @@ We also added a little site description under the primary heading, just like the
 
 ## Phase 2
 
-In this phasem we'll create and style the text.
+In this phase, we'll create and style the text.
 
 ### Styling the long text
 
