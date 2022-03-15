@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+  <html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://kit.fontawesome.com/638d441c12.js" crossorigin="anonymous"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Aldrich&display=swap" rel="stylesheet">
+    <title>playing cards</title>
+    <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          fontFamily: {
+            aldrich: 'Aldrich, sans-serif',
+          }
+        },
+      },
+    };
+    </script>
+  </head>
+  <body>
+    <div class="bg-slate-200 h-screen flex justify-around items-center flex-wrap">
+      <div class="bg-white h-80 w-64 border-8 border-black rounded-lg flex flex-col font-aldrich text-4xl text-red-600">
+        <div class="m-2">
+          Q
+        </div>
+        <div class="flex-1 flex justify-center items-center">
+          <i class="fa-solid fa-heart text-7xl"></i>
+        </div>
+        <div class="mr-2 flex justify-end">
+          Q
+        </div>
+      </div>
+      <div class="bg-white h-80 w-64 border-8 border-black rounded-lg flex flex-col font-aldrich text-4xl text-gray-600">
+        <div class="m-2">
+          J
+        </div>
+        <div class="flex-1 flex justify-center items-center">
+          <i class="fa-solid fa-club text-7xl"></i>
+        </div>
+        <div class="mr-2 flex justify-end">
+          J
+        </div>
+      </div>
+      <div class="bg-white h-80 w-64 border-8 border-black rounded-lg flex flex-col font-aldrich text-4xl text-yellow-900">
+        <div class="m-2">
+          DOG
+        </div>
+        <div class="flex-1 flex justify-center items-center">
+          <i class="fa-solid fa-paw text-7xl"></i>
+        </div>
+        <div class="mr-2 flex justify-end">
+          DOG
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
