@@ -6,7 +6,9 @@ In this project, we'll be creating a sign in form in the style of Instagram. The
 
 ## Phase 1
 
-We'll start by establishing two rectangles, centered in the page. 
+We'll start by establishing two rectangles, centered in the page. Watch the walkthrough for this phase before coding it on your own.
+
+[🎥 Phase 1 Walkthrough](https://vimeo.com/manage/videos/688244930)
 
 ### Starter code
 
@@ -65,7 +67,10 @@ We want some space between these white `div`s, so add a little vertical margin w
 
 ## Phase 2
 
-In this phase, we'll begin to add all of the content to each of the boxes. See the completed product image at the top of this reading for what content we'll need to plan for.
+In this phase, we'll begin to add all of the content to each of the boxes. See the completed product image at the top of this reading for what content we'll need to plan for. Watch the video walkthrough fully before coding this one on your own.
+
+[🎥 Phase 2 Walkthrough](https://vimeo.com/manage/videos/688243805)
+
 
 ### Adding content
 

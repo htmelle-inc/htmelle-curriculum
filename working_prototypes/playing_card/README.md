@@ -6,7 +6,9 @@ In this project, we'll be creating playing cards. The finished product will look
 
 ## Phase 1
 
-In this initial phase, we'll create a blank card.
+In this initial phase, we'll create a blank card. Watch the video walkthrough for this phase before coding it on your own.
+
+[🎥 Phase 1 Walkthrough](https://vimeo.com/manage/videos/688246628)
 
 ### Starter code
 
@@ -67,7 +69,9 @@ To center the card, we'll want to add classes to it's parent `div`. We should ad
 
 ## Phase 2
 
-In this phase, we'll decorate the card to look like a real playing card.
+In this phase, we'll decorate the card to look like a real playing card. Watch the walkthrough for this phase before coding it on your own.
+
+[🎥 Phase 2 Walkthrough](https://vimeo.com/manage/videos/688245878)
 
 ### Stubbing the 3 sections
 
