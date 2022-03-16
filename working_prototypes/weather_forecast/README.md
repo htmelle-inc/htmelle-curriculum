@@ -6,7 +6,9 @@ In this project we'll build a view that displays a five-day weather forecast:
 
 ## Phase 1
 
-In this initial phase, we'll lay down the background styles and start a single weather card. 
+In this initial phase, we'll lay down the background styles and start a single weather card. Watch the video walkthrough for this phase before coding this phase on your own.
+
+[🎥 Phase 1 Walkthrough](https://vimeo.com/689056057)
 
 ### Starter code
 
@@ -66,7 +68,9 @@ If you are having trouble centering things, recall that `flex` is our best frien
 
 ## Phase 2
 
-In this phase, we'll work to add all of the content within a single card.
+In this phase, we'll work to add all of the content within a single card. Watch the video walkthrough for this phase before coding this phase on your own.
+
+[🎥 Phase 2 Walkthrough](https://vimeo.com/689054923)
 
 ### Styling a weather card
 
