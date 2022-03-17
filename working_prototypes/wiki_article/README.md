@@ -6,7 +6,9 @@ In this project we'll create a page layout in the style of Wikipedia. By the end
 
 ## Phase 1
 
-We'll start by sectioning out our page before we add any style detail. 
+We'll start by sectioning out our page before we add any style detail. Be sure to watch the walkthrough for this phase before coding it on your own.
+
+[🎥  Phase 1 Walkthrough](https://vimeo.com/689116370)
 
 ### Starter code
 
@@ -70,6 +72,11 @@ We also added a little site description under the primary heading, just like the
 ## Phase 2
 
 In this phase, we'll create and style the text.
+
+**IMPORTANT** This time, try to proceed through this phase **without** watching the phase 2 walkthrough first. If you get stuck and need a hint, that's totally okay. Feel free to reference the walkthrough or ask a TA when you hit a roadblock.
+
+[🎥  Phase 2 Walkthrough](https://vimeo.com/689111982)
+
 
 ### Styling the long text
 
