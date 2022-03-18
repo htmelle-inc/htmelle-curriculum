@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="https://kit.fontawesome.com/638d441c12.js" crossorigin="anonymous"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab&family=Ruda:wght@400;500;700&display=swap" rel="stylesheet">
+  <title>weather forecast</title>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          fontFamily: {
+            ruda: 'Ruda, sans-serif',
+            roboto: 'Roboto Slab, serif'
+          }
+        },
+      },
+    };
+  </script>
+  </head>
+  <body>
+    <div class="bg-yellow-100 h-screen flex items-center">
+      <div class="bg-white w-full border-y-4 border-amber-400 py-8">
+        <div class="flex justify-center m-4 font-ruda text-xl text-stone-500">
+          Brooklyn, NY - 5 Day Weather Forecast
+        </div>
+        <div class="m-4 flex justify-around p-4">
+          <div class="border border-stone-200 w-40 flex flex-col items-center rounded-lg shadow-md py-2 font-roboto text-stone-500">
+            <div class="font-ruda text-xl text-stone-500">
+              Monday
+            </div>
+            <div class="text-sm">
+              March 15
+            </div>
+            <div>
+              <i class="fa-solid fa-sun text-yellow-500 text-7xl my-4"></i>
+            </div>
+            <div>
+              Sunny
+            </div>
+            <div class="flex">
+              62° <div class="text-stone-400 ml-1">45°</div>
+            </div>
+          </div>
+          <div class="border border-stone-200 w-40 flex flex-col items-center rounded-lg shadow-md py-2 font-roboto text-stone-500">
+            <div class="font-ruda text-xl text-stone-500">
+              Tuesday
+            </div>
+            <div class="text-sm">
+              March 16
+            </div>
+            <div>
+              <i class="fa-solid fa-cloud-showers-heavy text-gray-400 text-7xl my-4"></i>
+            </div>
+            <div>
+              Super Rainy
+            </div>
+            <div class="flex">
+              55° <div class="text-stone-400 ml-1">42°</div>
+            </div>
+          </div>
+          <div class="border border-stone-200 w-40 flex flex-col items-center rounded-lg shadow-md py-2 font-roboto text-stone-500">
+            <div class="font-ruda text-xl text-stone-500">
+              Wednesday
+            </div>
+            <div class="text-sm">
+              March 17
+            </div>
+            <div>
+              <i class="fa-solid fa-snowflakes text-blue-200 text-7xl my-4"></i>
+            </div>
+            <div>
+              Flurries
+            </div>
+            <div class="flex">
+              30° <div class="text-stone-400 ml-1">25°</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

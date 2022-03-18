@@ -7,14 +7,14 @@
     <script src="https://kit.fontawesome.com/638d441c12.js" crossorigin="anonymous"></script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Catamaran&family=Pacifico&display=swap" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css2?family=Catamaran&family=Pacifico&display=swap" rel="stylesheet">
     <title>sign in</title>
     <script>
       tailwind.config = {
         theme: {
           extend: {
             fontFamily: {
-              pacifico: 'Pacifico, cursive'
+							pacifico: 'Pacifico, cursive'
             }
           },
         },
@@ -22,24 +22,26 @@
     </script>
   </head>
   <body>
-    <div class="bg-zinc-50 h-screen flex justify-center items-center">
-      <div class="w-96">
-        <div class="border border-gray-200 bg-white m-2 flex flex-col items-center p-4">
-          <div class="font-pacifico text-5xl mt-2 mb-6 text-zinc-600">
-            Pictograph
-          </div>
-          <input class="border border-zinc-300 my-1 w-56 px-2 py-1 bg-zinc-50" placeholder="Username" />
-          <input class="border border-zinc-300 my-1 w-56 px-2 py-1 bg-zinc-50" placeholder="Password" />
-          <button class="bg-green-400 px-4 py-1 rounded-lg text-white w-56 my-2 hover:bg-green-600">sign in</button>
-          <div class="my-2 text-blue-700 flex items-center">
-            <i class="fa-brands fa-facebook-square text-2xl mr-1"></i> Log in with Facebook
-          </div>
-          <div class="text-sm text-gray-400">Forgot password?</div>
-        </div>
-        <div class="border border-gray-200 bg-white m-2 flex justify-center py-4 text-gray-500">
-          Don't have an account? <div class="text-green-700 ml-1 font-medium">Sign Up!</div>
-        </div>
-      </div>
-    </div>
+		<div class="h-screen flex justify-center items-center bg-zinc-50">
+			<div class="flex flex-col w-96">
+				<div class="flex flex-col border border-gray-400 bg-white px-8 py-4 my-4">
+					<div class="text-5xl text-gray-600 font-pacifico text-center mt-4 mb-6">Pictograph</div>
+					<input type="text" class="p-1 my-2 rounded-sm border border-gray-300 bg-zinc-50" placeholder="Username" />
+					<input type="text" class="p-1 my-2 rounded-sm border border-gray-300 bg-zinc-50" placeholder="Password" />
+					<button class="w-full bg-emerald-400 text-white py-1 rounded-md my-2 text-lg font-bold hover:bg-emerald-500">
+						Log in
+					</button>
+					<div class="flex flex-col items-center">
+						<div class="text-blue-700 text-lg flex items-center my-4">
+							<i class="fa-brands fa-facebook-square text-2xl mr-2"></i>Log in with Facebook
+						</div>
+						<div class="text-gray-400">Forgot password?</div>
+					</div>
+				</div>
+				<div class="border border-gray-400 bg-white px-8 py-4 flex justify-center text-lg text-gray-500">
+					Don't have an account? <span class="text-emerald-600 ml-2">Sign Up</span>
+				</div>
+			</div>
+		</div>
   </body>
 </html>
