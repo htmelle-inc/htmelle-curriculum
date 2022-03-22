@@ -1,5 +1,8 @@
 # Week 1 Day 3
 
-[Playing Card Project](./playing_card_project/)
+No lectures today! Let's jump straight into some new projects to practice what we've learned
+previously:
 
-[Weather Forecast Project](./weather_forecast_project/)
+- [Playing Card Project](./playing_card_project/)
+
+- [Weather Forecast Project](./weather_forecast_project/)
