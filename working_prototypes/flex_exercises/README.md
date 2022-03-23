@@ -86,7 +86,7 @@ the walkthrough for how to accomplish this.
 
 ![exercise-9](./images/flex_exercise_9.png)
 
-Notice that these divs are stacked in a column. You'll need to use some sort of `flex-col`.
+Notice that these divs are stacked in a column. You'll need to use some sort of `flex-col`. The black div has `w-40` and `h-80`
 
 ### Exercise 10
 
