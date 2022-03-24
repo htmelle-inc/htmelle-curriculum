@@ -7,6 +7,11 @@ so far in the course. The final product will look something like this:
 
 ## Phase 1
 
+Watch the walkthrough for this phase **before** coding it up on your own. Once you have watched the
+video, then proceed to the instructions to build what you just watched.
+
+- [🎥 Phase 1 Walkthrough](https://vimeo.com/691520147)
+
 Create a new HTML/CSS [replit](https://replit.com/~) for this project and replace the `index.html`
 with the following starter code:
 
@@ -53,6 +58,11 @@ also want to make the blue div have `items-center` so that the 3 sections are ve
 like in the picture.
 
 ## Phase 2
+
+Watch the walkthrough for this phase **before** coding it up on your own. Once you have watched the
+video, then proceed to the instructions to build what you just watched.
+
+- [🎥 Phase 2 Walkthrough](https://vimeo.com/691519428)
 
 In this phase, we'll add the style and detail into our player. Let's start to add the control icons
 into middle section:
@@ -101,6 +111,11 @@ favorite songs:
 Be sure to make separate `div`s for title and artist. This will allow them to stack.
 
 ## Phase 3
+
+Watch the walkthrough for this phase **before** coding it up on your own. Once you have watched the
+video, then proceed to the instructions to build what you just watched.
+
+- [🎥 Phase 3 Walkthrough](https://vimeo.com/691518642)
 
 Now that all the content is in place. Let's add the final styles that will make this layout elegant!
 Remove those temporary borders and choose a

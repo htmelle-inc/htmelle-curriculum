@@ -57,7 +57,7 @@ The black div has width `w-80` like before but now also height `h-40`
 
 ### Walkthrough for exercises 1-4
 
-- [🎥 Flex Exercises 1-4 Walkthrough]()
+- [🎥 Flex Exercises 1-4 Walkthrough](https://vimeo.com/691637820)
 
 ### Exercise 5
 
@@ -75,12 +75,12 @@ The black div has width `w-80` like before but now also height `h-40`
 
 ![exercise-8](./images/flex_exercise_8.png)
 
-This one is special! How did we get the red div to be so large. This requires a new class. Check out
+This one is special! How did we get the red div to be so large? This requires a new class. Check out
 the walkthrough for how to accomplish this.
 
 ### Walkthrough for exercises 5-8
 
-- [🎥 Flex Exercises 5-8 Walkthrough]()
+- [🎥 Flex Exercises 5-8 Walkthrough](https://vimeo.com/691637659)
 
 ### Exercise 9
 
@@ -104,7 +104,7 @@ This one is very similar to the previous except there is margin around each colo
 
 ### Walkthrough for exercises 9-12
 
-- [🎥 Flex Exercises 9-12 Walkthrough]()
+- [🎥 Flex Exercises 9-12 Walkthrough](https://vimeo.com/691637570)
 
 ### Exercise 13
 
@@ -126,7 +126,7 @@ is a column. Can you figure out the rest?
 
 ### Walkthrough for exercises 13-15
 
-- [🎥 Flex Exercises 13-15 Walkthrough]()
+- [🎥 Flex Exercises 13-15 Walkthrough](https://vimeo.com/691655393)
 
 ## Wrap-Up
 
