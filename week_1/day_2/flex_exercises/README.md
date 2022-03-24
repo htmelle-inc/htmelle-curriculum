@@ -86,7 +86,7 @@ the walkthrough for how to accomplish this.
 
 ![exercise-9](./images/flex_exercise_9.png)
 
-Notice that these divs are stacked in a column. You'll need to use some sort of `flex-col`.
+Notice that these divs are stacked in a column. You'll need to use some sort of `flex-col`. The black div has `w-40` and `h-80`
 
 ### Exercise 10
 
@@ -121,7 +121,7 @@ did in exercise 8. We'll leave it to you.
 
 ![exercise-15](./images/flex_exercise_15.png)
 
-This last one is pretty complex! Notice that the large outer red div is a row while each blue div
+This last one is pretty complex! The red div is the full height and width of the screen. The blue divs are `h-80`, `w-24`. Notice that the large outer red div is a row while each blue div
 is a column. Can you figure out the rest?
 
 ### Walkthrough for exercises 13-15
