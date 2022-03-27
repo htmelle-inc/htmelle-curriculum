@@ -46,7 +46,7 @@ Code along with us in this video walkthrough:
 
 ## Exercises 4-6
 
-In this section we'll introduce buttons! We'll create three `buttons`s and apply some different
+In this section we'll introduce buttons! We'll create three `button`s and apply some different
 styles to them to make them appear like something that the user would want to click! We'll also
 explore how we can easily apply hover effects to buttons:
 
