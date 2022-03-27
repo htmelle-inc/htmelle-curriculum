@@ -16,7 +16,8 @@ starter code:
     <script src="https://kit.fontawesome.com/638d441c12.js" crossorigin="anonymous"></script>
     <script></script>
   </head>
-  <body></body>
+  <body>
+  </body>
 </html>
 ```
 
