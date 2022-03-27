@@ -60,7 +60,8 @@ Code along with us in this video walkthrough:
 
 Let's continue to experiment with some button styles but now include some icons using the `i`
 element! Learning how style icons is important because we can use icons to express ideas without
-using words! We'll work on some icon buttons that look like this:
+using words! We'll use [fontawesome](https://fontawesome.com/) to get our icons. We'll work on some
+icon buttons that look like this:
 
 ![7-9](images/7-9.png)
 
