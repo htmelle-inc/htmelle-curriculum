@@ -31,7 +31,8 @@ every replit you create:
 ```
 
 The starter code above, includes some configration so you can use the icons and styles needed in the
-exercises.
+exercises. As you work through the exercises, you'll to keep a browser tab containing the
+[tailwindcss](https://tailwindcss.com/) documentation for reference.
 
 ## Exercises 1-3
 
@@ -42,7 +43,7 @@ border, and color properties:
 
 Code along with us in this video walkthrough:
 
-- [🎥 Style Exercises 1-3 Walkthrough]()
+- [🎥 Style Exercises 1-3 Walkthrough](https://vimeo.com/692911621)
 
 ## Exercises 4-6
 
@@ -54,7 +55,7 @@ explore how we can easily apply hover effects to buttons:
 
 Code along with us in this video walkthrough:
 
-- [🎥 Style Exercises 4-6 Walkthrough]()
+- [🎥 Style Exercises 4-6 Walkthrough](https://vimeo.com/692911237)
 
 ## Exercises 7-9
 
@@ -67,7 +68,7 @@ icon buttons that look like this:
 
 Code along with us in this video walkthrough:
 
-- [🎥 Style Exercises 7-9 Walkthrough]()
+- [🎥 Style Exercises 7-9 Walkthrough](https://vimeo.com/692910807)
 
 ## Exercises 10-12
 
@@ -78,4 +79,4 @@ some text. We'll build a few `input`s and tie in other patterns from the previou
 
 Code along with us in this video walkthrough:
 
-- [🎥 Style Exercises 10-12 Walkthrough]()
+- [🎥 Style Exercises 10-12 Walkthrough](https://vimeo.com/692910379)
