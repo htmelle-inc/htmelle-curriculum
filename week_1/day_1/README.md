@@ -4,7 +4,7 @@ Welcome to the htm.elle technical curriculum! In this video, we'll talk about wh
 the next few weeks and set up our accounts on [GitHub](https://github.com/) and
 [replit](https://replit.com/~)
 
-- [🎉 Welcome Video]()
+- [🎉 Welcome Video](https://vimeo.com/693810303)
 
 ## Activities
 
@@ -27,7 +27,7 @@ to know what this does yet, scroll down to the introductory lecture. We'll expla
 
 Let's write and run our first lines of code and introduce [tailwindCSS](https://tailwindcss.com/).
 
-- [🎥 Introductory Lecture]()
+- [🎥 Introductory Lecture](https://vimeo.com/693810684)
 
 Let's learn about the difference between margin and padding in this conceptual lecture:
 
