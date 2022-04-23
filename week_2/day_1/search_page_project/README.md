@@ -9,6 +9,11 @@ project, you'll build a page similar to this:
 
 In this initial phase, we'll begin the three sections and focus on styling the header.
 
+**This time, try to code up this phase on your own first by following the text instructions. Then
+use the video walkthrough if you get stuck:**
+
+[🎥 Phase 1 Walkthrough](https://vimeo.com/702074407)
+
 ### Starter Code
 
 Begin with the following starter code:
@@ -104,6 +109,11 @@ similar?
 
 In this phase, we'll focus on adding the content to the body section.
 
+**This time, try to code up this phase on your own first by following the text instructions. Then
+use the video walkthrough if you get stuck:**
+
+[🎥 Phase 2 Walkthrough](https://vimeo.com/702443280)
+
 ### Basic content layout
 
 Start by centering a new `div` within the body div, this new div will act as the container for all
@@ -148,6 +158,11 @@ We'll leave it to you to eyeball the rest. Feel free to use different colors esp
 ## Phase 3
 
 Finally let's wrap up with the footer.
+
+**This time, try to code up this phase on your own first by following the text instructions. Then
+use the video walkthrough if you get stuck:**
+
+[🎥 Phase 2 Walkthrough](https://vimeo.com/702443079)
 
 ### Styling the footer
 
