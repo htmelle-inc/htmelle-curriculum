@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://kit.fontawesome.com/638d441c12.js" crossorigin="anonymous"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;1,500;1,600&family=Source+Sans+Pro:wght@400;600&display=swap"
+      rel="stylesheet"
+    />
+    <title>the htm.elle times</title>
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            fontFamily: {
+              playfair: "Playfair Display, serif",
+              source: "Source Sans Pro, san-serif",
+            },
+          },
+        },
+      };
+    </script>
+  </head>
+  <body>
+    <div class="flex justify-between items-center font-source p-2">
+      <div class="w-40 text-red-400">
+        <i class="mx-1 fa-solid fa-bars"></i>
+        <i class="mx-1 fa-solid fa-magnifying-glass"></i>
+      </div>
+      <div class="flex text-stone-500">
+        <div class="mx-1">U.S.</div>
+        <div class="mx-1">INTERNATIONAL</div>
+        <div class="mx-1">CANADA</div>
+        <div class="mx-1">ESPAÑOL</div>
+        <div class="mx-1">中文</div>
+      </div>
+      <div class="w-40 flex justify-end">
+        <button class="mx-1 px-2 py-1 rounded-md bg-red-400 text-white">subscribe</button>
+        <button class="mx-1 px-2 py-1 rounded-md bg-red-400 text-white">sign in</button>
+      </div>
+    </div>
+    <div class="flex justify-between text-stone-500 font-source p-4">
+      <div>
+        <div class="font-bold">
+          April 23, 2022
+        </div>
+        <div>
+          Today's Paper
+        </div>
+      </div>
+      <div class="text-5xl font-playfair italic text-red-400">
+        Htmelle Times
+      </div>
+      <div>
+        <div  class="font-bold">Weather</div>
+        <div>
+          <i class="fa-solid fa-sun"></i> 64 F, Sunny
+        </div>
+      </div>
+    </div>
+    <div class="border-t border-b-2 py-2 border-stone-200 flex justify-around text-stone-500 font-source">
+      <div>World</div>
+      <div>U.S.</div>
+      <div>N.Y.</div>
+      <div>Tech</div>
+      <div>Science</div>
+      <div>Health</div>
+      <div>Arts</div>
+      <div>Style</div>
+      <div>Food</div>
+    </div>
+  </body>
+</html>
