@@ -58,7 +58,7 @@ Create the top of the header so it looks like this:
 
 ![phase_1](./images/phase_1.png)
 
-**Try to code up this phase on your own, then use the video walkthrough if you get stuck:**
+Try to code up this phase on your own, then use the video walkthrough if you get stuck:
 
 [🎥 Phase 1 Walkthrough](https://vimeo.com/702593799)
 
@@ -68,7 +68,7 @@ Create the middle of the header so it looks like this:
 
 ![phase_2](./images/phase_2.png)
 
-**Try to code up this phase on your own, then use the video walkthrough if you get stuck:**
+Try to code up this phase on your own, then use the video walkthrough if you get stuck:
 
 [🎥 Phase 2 Walkthrough](https://vimeo.com/702593475)
 
@@ -78,7 +78,7 @@ Create the bottom of the header so it looks like this:
 
 ![phase_3](./images/phase_3.png)
 
-**Try to code up this phase on your own, then use the video walkthrough if you get stuck:**
+Try to code up this phase on your own, then use the video walkthrough if you get stuck:
 
 [🎥 Phase 3 Walkthrough](https://vimeo.com/702593312)
 
