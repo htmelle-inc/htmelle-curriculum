@@ -15,7 +15,7 @@ are left to you.
 
 ## Phase 1 - the top
 
-Use this starter code for the font's in this design:
+Use this starter code for the fonts in this design:
 
 ```html
 <!DOCTYPE html>
@@ -58,11 +58,19 @@ Create the top of the header so it looks like this:
 
 ![phase_1](./images/phase_1.png)
 
+**Try to code up this phase on your own, then use the video walkthrough if you get stuck:**
+
+[🎥 Phase 1 Walkthrough](https://vimeo.com/702593799)
+
 ### Phase 2 - the middle
 
 Create the middle of the header so it looks like this:
 
 ![phase_2](./images/phase_2.png)
+
+**Try to code up this phase on your own, then use the video walkthrough if you get stuck:**
+
+[🎥 Phase 2 Walkthrough](https://vimeo.com/702593475)
 
 ### Phase 3 - the bottom
 
@@ -70,7 +78,12 @@ Create the bottom of the header so it looks like this:
 
 ![phase_3](./images/phase_3.png)
 
+**Try to code up this phase on your own, then use the video walkthrough if you get stuck:**
+
+[🎥 Phase 3 Walkthrough](https://vimeo.com/702593312)
+
 Once you have stacked all three sections of the header, you are done. Nice! You should be proud of
 your work. Only a few days ago you wrote your first lines of html ;)
 
 ![complete](./images/complete.png)
+
