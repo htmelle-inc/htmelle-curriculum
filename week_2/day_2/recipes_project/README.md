@@ -47,6 +47,11 @@ Begin with the following starter `index.html` that includes some fonts to use:
 </html>
 ```
 
+**Try to code up this phase on your own first by following the text instructions. Then
+use the video walkthrough if you get stuck:**
+
+[🎥 Phase 1 Walkthrough](https://vimeo.com/702676273)
+
 Let's start simple by stubbing out the header. This should be straightforward. We just roughly three
 `div`s:
 
@@ -77,6 +82,11 @@ We made the background a gradient from pink to orange using the class
 ## Phase 2
 
 In this phase, we'll style a single card.
+
+**Try to code up this phase on your own first by following the text instructions. Then
+use the video walkthrough if you get stuck:**
+
+[🎥 Phase 2 Walkthrough](https://vimeo.com/702675434)
 
 ### Styling a card
 
