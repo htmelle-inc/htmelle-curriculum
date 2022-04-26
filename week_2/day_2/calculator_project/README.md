@@ -13,7 +13,7 @@ that detail for last.
 
 ## Starter code
 
-Use this starter code, `text-fira` is the font you'll be using:
+Use this starter code, `font-fira` is the font you'll be using:
 
 ```html
 <!DOCTYPE html>

@@ -69,7 +69,7 @@ everything is good. Center everything nicely. Like usual, you'll probably want t
 
 Now that the skeleton is in place, let's fully style the header. Use some generous
 [margin](https://tailwindcss.com/docs/margin) or [padding](https://tailwindcss.com/docs/padding).
-Use `text-catamaran` for the main text and `text-lato` for the secondary text. Adjust all the sizing
+Use `font-catamaran` for the main text and `font-lato italic` for the secondary text. Adjust all the sizing
 and colors to your liking. We played with the
 [font weight](https://tailwindcss.com/docs/font-weight) and
 [font style](https://tailwindcss.com/docs/font-style) in our design too:
