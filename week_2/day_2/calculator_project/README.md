@@ -47,3 +47,7 @@ Use this starter code, `font-fira` is the font you'll be using:
   </body>
 </html>
 ```
+
+If you need help figuring out this layout or you finished your code, watch the walkthrough:
+
+[🎥 Calculator Project Walkthrough](https://vimeo.com/703513593)
