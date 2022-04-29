@@ -5,6 +5,8 @@ project, you'll build a page similar to this:
 
 ![complete](./images/complete.png)
 
+[🎥 Search Page Approach](https://vimeo.com/704378365)
+
 ## Phase 1
 
 In this initial phase, we'll begin the three sections and focus on styling the header.
