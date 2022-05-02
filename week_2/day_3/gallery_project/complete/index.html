@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://kit.fontawesome.com/638d441c12.js" crossorigin="anonymous"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Dancing+Script&family=Poppins&display=swap" rel="stylesheet">
+
+    <title>recipe list</title>
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            fontFamily: {
+              dancing: "Dancing Script, cursive",
+              poppins: "Poppins, sans-serif",
+            },
+          },
+        },
+      };
+    </script>
+  </head>
+  <body>
+    <div class="flex justify-between items-center px-8 py-2 border-b border-stone-300">
+      <div class="font-dancing font-bold text-4xl text-stone-600">
+        Pictograph
+      </div>
+      <input class="rounded-lg py-1 px-2 bg-stone-200" placeholder="Search" />
+      <div class="font-poppins">
+        <button class="rounded-md bg-rose-400 px-2 py-1 text-white">Log in</button>
+        <button class="text-rose-500 ml-2">Sign Up</button>
+      </div>
+    </div>
+    <div class="bg-stone-50 flex font-poppins text-stone-500 justify-center items-center py-16 border-b border-stone-300">
+      <img
+        class="h-48 w-48 object-cover rounded-full"
+        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBS9dWVnRSeL2KW2wvFUy6w8x6i2hb6Vc7k115ctZBWfJq44GAqQR-b0f4-RTP2XIf5FQ&usqp=CAU"/>
+      <div class="flex flex-col justify-center m-8">
+        <div class="text-xl text-stone-600">
+          Marielle E
+        </div>
+        <div class="flex my-4">
+          <div class="mr-4">
+            42 posts
+          </div>
+          <div class="mr-4">
+            887 followers
+          </div>
+          <div class="mr-4">
+            96 following
+          </div>
+        </div>
+        <div class="text-stone-600">
+          Creating the next generation of female founders.
+        </div>
+      </div>
+    </div>
+    <div class="py-16 bg-stone-50 flex flex-wrap justify-center">
+      <div class="w-full flex justify-center text-xl text-rose-500 font-poppins">
+        Posts
+      </div>
+      <img 
+        class="m-8 h-64 w-64 object-cover"
+        src="https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2019_33/2203981/171026-better-coffee-boost-se-329p.jpg"/>
+      <img 
+        class="m-8 h-64 w-64 object-cover"
+        src="https://media.newyorker.com/photos/5d701d7c9e4fc500085d1f29/master/w_1600%2Cc_limit/Russell-BulletJournal.jpg"/>
+       <img 
+        class="m-8 h-64 w-64 object-cover"
+        src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8&w=1000&q=80"/>
+       <img 
+        class="m-8 h-64 w-64 object-cover"
+        src="https://www.loveyourdog.com/wp-content/uploads/2020/05/Blue-Heeler-Outside.jpg"/>
+       <img 
+        class="m-8 h-64 w-64 object-cover"
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Vertigo_1958_trailer_Kim_Novak_at_Golden_Gate_Bridge.jpg/800px-Vertigo_1958_trailer_Kim_Novak_at_Golden_Gate_Bridge.jpg"/>
+       <img 
+        class="m-8 h-64 w-64 object-cover"
+        src="https://images.unsplash.com/photo-1615486131726-cf0011927a54?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YWlycGxhbmUlMjB3aW5kb3clMjB2aWV3fGVufDB8fDB8fA%3D%3D&w=1000&q=80"/>
+             <img 
+        class="m-8 h-64 w-64 object-cover"
+        src="https://wallpaperaccess.com/full/148423.jpg"/>
+             <img 
+        class="m-8 h-64 w-64 object-cover" src="https://www.thespruce.com/thmb/GCQPWaOywphTozB6auyPsMIVfDs=/889x667/smart/filters:no_upscale()/inspiring-above-ground-swimming-pool-designs-4063956-1-00f5914a919d46c4b33aec7f2ae57afc.jpg"/>
+             <img 
+        class="m-8 h-64 w-64 object-cover"
+        src="https://cdn.shopify.com/s/files/1/1832/0821/files/catshark.jpg?v=1649869148"/>
+    </div>
+    <div class="px-8 flex justify-around py-4 text-sm font-poppins text-stone-500 bg-rose-100">
+      <div>Blog</div>
+      <div>Jobs</div>
+      <div>Help</div>
+      <div>API</div>
+      <div>Privacy</div>
+      <div>Terms</div>
+      <div>Top Accounts</div>
+      <div>Hashtags</div>
+      <div>Locations</div>
+      <div>Instagram Lite</div>
+    </div>
+  </body>
+</html>
