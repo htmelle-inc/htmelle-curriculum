@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://kit.fontawesome.com/638d441c12.js" crossorigin="anonymous"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Oswald&family=Roboto&display=swap" rel="stylesheet">
+    <title>mobile project</title>
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            fontFamily: {
+              oswald: "Oswald, sans-serif",
+              roboto: "Roboto, sans-serif",
+            },
+          },
+        },
+      };
+    </script>
+  </head>
+  <body>
+    <div class="flex flex-col sm:flex-row">
+      <div class="flex-1 p-8 bg-slate-50">
+        <div class="font-oswald text-zinc-600 text-3xl border-b-2 border-zinc-600 pb-2">
+          Our Mission
+        </div>
+        <div class="font-roboto text-zinc-500 mt-4">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quisque non tellus orci ac auctor. Feugiat scelerisque varius morbi enim nunc faucibus. Quam pellentesque nec nam aliquam sem. Urna duis convallis convallis tellus id interdum velit. Luctus accumsan tortor posuere ac ut consequat. Nunc scelerisque viverra mauris in aliquam sem fringilla.
+        </div>
+        <div class="flex flex-row sm:flex-col font-roboto mt-4">
+          <button class="m-2 px-4 py-1 text-zinc-500 bg-green-100 border-2 border-green-400 text-lg rounded-md w-40">Sign Up</button>
+          <button class="m-2 px-4 py-1 text-zinc-500 border-2 border-zinc-500 text-lg rounded-md w-40">Learn More</button>
+        </div>
+      </div>
+      <div class="flex-1 flex flex-col justify-around p-8 font-oswald text-green-100 bg-zinc-500 text-4xl">
+        <div class="border-y-2 border-green-100 p-2">
+          3 Million Users
+        </div>
+        <div class="border-y-2 border-green-100 p-2">
+          40 Countries
+        </div>
+        <div class="border-y-2 border-green-100 p-2">
+          1000 Reviews
+        </div>
+      </div>
+    </div>
+    <div class="font-roboto text-green-700 sm:bg-green-600 sm:text-white text-2xl flex justify-center p-8">
+      Join our users
+    </div>
+    <div class="flex flex-col sm:flex-row">
+      <div class="bg-green-200 text-zinc-500 flex-1 flex flex-col justify-center items-center p-8">
+        <i class="text-3xl fa-solid fa-acorn"></i>
+        <div class="font-oswald text-lg">
+          One
+        </div>
+      </div>
+      <div class="bg-zinc-400 text-white flex-1 flex flex-col justify-center items-center p-8">
+        <i class="text-3xl fa-solid fa-star"></i>
+        <div class="font-oswald text-lg">
+          Two
+        </div>
+      </div>
+      <div class="bg-green-200 text-zinc-500 flex-1 flex flex-col justify-center items-center p-8">
+        <i class="text-3xl fa-solid fa-pizza-slice"></i>
+        <div class="font-oswald text-lg">
+          Three
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
