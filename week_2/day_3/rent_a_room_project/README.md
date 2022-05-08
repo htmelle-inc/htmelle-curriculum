@@ -51,4 +51,6 @@ Use this starter code. We've given you two fonts, `font-rubik` and `font-open`.
 
 If you need help figuring out this layout or you finished your code, watch the walkthrough:
 
-[🎥 Rent-a-room Project Walkthrough]()
+[🎥 Rent-a-room Project Walkthrough 1](https://vimeo.com/707507022)
+[🎥 Rent-a-room Project Walkthrough 2](https://vimeo.com/707506341)
+[🎥 Rent-a-room Project Walkthrough 3](https://vimeo.com/707505905)
