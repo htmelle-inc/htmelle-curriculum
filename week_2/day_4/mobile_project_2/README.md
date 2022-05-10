@@ -1,24 +1,21 @@
-# Mobile Project 1
+# Mobile Project 2
 
-In this project, we'll explore how to create layouts that look good on both small screens and large
-screen sizes. These days, devices come in all shapes and sizes from small phones, to larger tablets
-or desktops. Having a site that looks responsive depending on the screen size is critical in this
-day and age!
-
+In this project, you'll continue practicing responsive layouts. This time though we want you to
+drive this project and use only use the video walkthroughs when you get stuck or finish the code.
 Our final product will look something like this on mobile screen sizes:
 
-![small](./images/small.png)
+![small_1](./images/small_1.png) 
+
+![small_2](./images/small_2.png)
 
 But the same product will look like this on desktop screen sizes:
 
-![large](./images/large.png)
+![large_1](./images/large_1.png)
+
+![large_2](./images/large_2.png)
 
 Notice how the sections of the page are rearranged to accomodate for the width of the screen. The
 cool part is that we will accomplish this by using single `index.html` page!
-
-Since this our first time implementing a responsive layout, this project will be a code-along. **This
-means that you'll be watching the video walkthrough and coding things up right as we do!** We'll
-introduce and explain the tricks needed to create a responsive design.
 
 As you code-along with use, feel free to choose your own colors from
 [tailwindcss](https://tailwindcss.com/docs/customizing-colors) and icons from
@@ -26,7 +23,7 @@ As you code-along with use, feel free to choose your own colors from
 
 ## Starter code
 
-Use this starter code. We've given you two fonts, `font-oswald` and `font-roboto`.
+Use this starter code. We've given you two fonts, `font-web` and `font-heebo`.
 
 ```html
 <!DOCTYPE html>
@@ -39,17 +36,17 @@ Use this starter code. We've given you two fonts, `font-oswald` and `font-roboto
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
-      href="https://fonts.googleapis.com/css2?family=Oswald&family=Roboto&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Heebo&family=Titillium+Web&display=swap"
       rel="stylesheet"
     />
-    <title>mobile project 1</title>
+    <title>mobile project 2</title>
     <script>
       tailwind.config = {
         theme: {
           extend: {
             fontFamily: {
-              oswald: "Oswald, sans-serif",
-              roboto: "Roboto, sans-serif",
+              web: "Titillium Web, sans-serif",
+              heebo: "Heebo, sans-serif",
             },
           },
         },
@@ -57,15 +54,17 @@ Use this starter code. We've given you two fonts, `font-oswald` and `font-roboto
     </script>
   </head>
   <body>
-    let's build our first mobile layout
+    Let's create another mobile layout
   </body>
 </html>
 ```
 
-## Code along
+## Video Walkthroughs
 
-Code along with us:
+Be sure to give the code a shot on your own first beforing watching these wakthroughs! It's
+improtant that we try to be self-sufficient as programmers as we move into week 3, since you'll be
+creating your very own layouts soon.
 
-- [🎥 Mobile Project 1 Walkthrough 1]()
-- [🎥 Mobile Project 1 Walkthrough 2]()
-- [🎥 Mobile Project 1 Walkthrough 3]()
+- [🎥 Mobile Project 2 Walkthrough 1]()
+- [🎥 Mobile Project 2 Walkthrough 2]()
+- [🎥 Mobile Project 2 Walkthrough 3]()
