@@ -57,6 +57,6 @@ Use this starter code. We've given you two fonts, `font-dancing` and `font-poppi
 
 If you need help figuring out this layout or you finished your code, watch the walkthrough:
 
-[🎥 Gallery Project Walkthrough 1](https://vimeo.com/708047413)
-[🎥 Gallery Project Walkthrough 2](https://vimeo.com/708046821)
-[🎥 Gallery Project Walkthrough 3](https://vimeo.com/708047763)
++ [🎥 Gallery Project Walkthrough 1](https://vimeo.com/708047413)
++ [🎥 Gallery Project Walkthrough 2](https://vimeo.com/708046821)
++ [🎥 Gallery Project Walkthrough 3](https://vimeo.com/708047763)
