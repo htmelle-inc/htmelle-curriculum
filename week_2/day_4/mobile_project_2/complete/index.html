@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://kit.fontawesome.com/638d441c12.js" crossorigin="anonymous"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Heebo&family=Titillium+Web&display=swap" rel="stylesheet">
+    <title>mobile project 2</title>
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            fontFamily: {
+              web: "Titillium Web, sans-serif",
+              heebo: "Heebo, sans-serif",
+            },
+          },
+        },
+      };
+    </script>
+  </head>
+  <body class="bg-stone-100">
+    <div class="flex p-8 justify-between items-center">      
+      <div class="flex flex-col items-center justify-center font-web text-3xl text-yellow-700">
+        <i class="fa-solid fa-mug-saucer text-4xl"></i>
+        Coder Cafe
+      </div>
+        <i class="sm:hidden fa-solid fa-bars text-3xl text-stone-500"></i>
+      <div class="hidden flex-1 sm:flex justify-around items-center font-heebo text-xl text-stone-500"> 
+        <a href="#locations">
+          Locations
+        </a>
+        <a href="#about">
+          About
+        </a>
+      </div>
+    </div>
+    <div class="flex flex-col sm:flex-row">
+      <div class="flex-1">
+        <img class="flex-1" src="https://wallpaperaccess.com/full/279553.jpg" />
+      </div>
+      <div class="flex-1 flex justify-center items-center bg-yellow-700 text-white p-8 text-4xl font-web">
+        Come visit us for code, coffee, and good vibes.
+      </div>
+    </div>
+      <div class="flex justify-center w-full mb-16">
+        <div 
+          id="locations"
+          class="font-web text-4xl font-bold p-4 border-b-4 border-yellow-700 text-stone-500 mt-8">
+          Locations
+        </div>
+      </div>
+    <div class="flex justify-around m-8">
+      <img
+class="w-96 h-64 object-cover"   src="https://www.venuereport.com/media/cache/resolve/venue_roundup_single_image_flex/uploads/+0Regular_Roundup/2018/9-September/NYCCoffeeShops/Devocion-TesaPesic-01.JPG"
+        />
+      <img
+class="w-96 h-64 object-cover"   src="https://www.venuereport.com/media/cache/resolve/venue_roundup_single_image_flex/uploads/+0Regular_Roundup/2018/9-September/NYCCoffeeShops/LaColombe-TesaPesic-03.JPG"
+        />
+      <img
+class="w-96 h-64 object-cover"   src="https://www.venuereport.com/media/cache/resolve/venue_roundup_single_image_flex/uploads/+0Regular_Roundup/2018/9-September/NYCCoffeeShops/Tobys-WestVillage-TesaPesic-01.jpg"
+        />
+    </div>
+    <div class="flex flex-wrap justify-center text-yellow-700 font-heebo my-16">
+      <div class="flex justify-center w-full mb-16">
+        <div 
+          id="about"
+          class="font-web text-4xl font-bold p-4 border-b-4 border-yellow-700 text-stone-500">
+          About
+        </div>
+      </div>
+      <div class="text-2xl flex flex-col items-center justify-center w-64 h-32 m-4 bg-white rounded-lg shadow-md">
+        <i class="text-3xl m-1 fa-solid fa-wifi"></i>
+        <div class="">
+          Fast WiFi
+        </div>
+      </div>
+      <div class="text-2xl flex flex-col items-center justify-center w-64 h-32 m-4 bg-white rounded-lg shadow-md">
+        <i class="text-3xl m-1 fa-solid fa-comments"></i>
+        <div class="">
+          Meet coders
+        </div>
+      </div>
+      <div class="text-2xl flex flex-col items-center justify-center w-64 h-32 m-4 bg-white rounded-lg shadow-md">
+        <i class="text-3xl m-1 fa-solid fa-laptop-code"></i>
+        <div class="">
+          Get work done
+        </div>
+      </div>
+      <div class="text-2xl flex flex-col items-center justify-center w-64 h-32 m-4 bg-white rounded-lg shadow-md">
+        <i class="text-3xl m-1 fa-solid fa-coffee-bean"></i>
+        <div class="">
+          Fresh coffee
+        </div>
+      </div>
+      <div class="text-2xl flex flex-col items-center justify-center w-64 h-32 m-4 bg-white rounded-lg shadow-md">
+        <i class="text-3xl m-1 fa-solid fa-cake-slice"></i>
+        <div class="">
+          Snacks
+        </div>
+      </div>
+      <div class="text-2xl flex flex-col items-center justify-center w-64 h-32 m-4 bg-white rounded-lg shadow-md">
+        <i class="text-3xl m-1 fa-solid fa-paw"></i>
+        <div class="">
+          Pet friendly
+        </div>
+      </div>
+      <div class="text-2xl flex flex-col items-center justify-center w-64 h-32 m-4 bg-white rounded-lg shadow-md">
+        <i class="text-3xl m-1 fa-solid fa-book-open-cover"></i>
+        <div class="">
+          Library
+        </div>
+      </div>
+      <div class="text-2xl flex flex-col items-center justify-center w-64 h-32 m-4 bg-white rounded-lg shadow-md">
+        <i class="text-3xl m-1 fa-solid fa-chalkboard-user"></i>
+        <div class="">
+          Host events
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
