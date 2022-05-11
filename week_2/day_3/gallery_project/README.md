@@ -35,7 +35,7 @@ Use this starter code. We've given you two fonts, `font-dancing` and `font-poppi
       rel="stylesheet"
     />
 
-    <title>recipe list</title>
+    <title>gallery</title>
     <script>
       tailwind.config = {
         theme: {

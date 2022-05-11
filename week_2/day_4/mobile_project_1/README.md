@@ -66,6 +66,5 @@ Use this starter code. We've given you two fonts, `font-oswald` and `font-roboto
 
 Code along with us:
 
-- [🎥 Mobile Project 1 Walkthrough 1]()
-- [🎥 Mobile Project 1 Walkthrough 2]()
-- [🎥 Mobile Project 1 Walkthrough 3]()
+- [🎥 Mobile Project 1 Walkthrough 1](https://vimeo.com/708449937)
+- [🎥 Mobile Project 1 Walkthrough 2](https://vimeo.com/708449147)
