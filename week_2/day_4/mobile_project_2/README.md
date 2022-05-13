@@ -65,6 +65,6 @@ Be sure to give the code a shot on your own first beforing watching these wakthr
 improtant that we try to be self-sufficient as programmers as we move into week 3, since you'll be
 creating your very own layouts soon.
 
-- [🎥 Mobile Project 2 Walkthrough 1]()
-- [🎥 Mobile Project 2 Walkthrough 2]()
-- [🎥 Mobile Project 2 Walkthrough 3]()
+- [🎥 Mobile Project 2 Walkthrough 1](https://vimeo.com/709365196)
+- [🎥 Mobile Project 2 Walkthrough 2](https://vimeo.com/709363819)
+- [🎥 Mobile Project 2 Walkthrough 3](https://vimeo.com/709362911)
