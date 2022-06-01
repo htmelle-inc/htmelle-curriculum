@@ -27,6 +27,34 @@ Your website must have the following sections:
 
 You'll have time to work on these sections during studio time this week.
 
+## Starter code
+
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://kit.fontawesome.com/638d441c12.js" crossorigin="anonymous"></script>
+    <title>capstone project</title>
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            fontFamily: {
+
+            },
+          },
+        },
+      };
+    </script>
+  </head>
+  <body>
+  </body>
+</html>
+```
+
 ### Sections to work on today
 
 Today you should make progress on the following sections and continue working on these sections for
@@ -66,7 +94,6 @@ If you need some inspiration on designing a hero, watch Alvin create his hero fo
 - [🎥 Airbnbark hero walkthrough](https://vimeo.com/714787346)
 
 ![hero](./images/hero.png)
-
 
 #### Mission
 
