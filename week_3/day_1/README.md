@@ -26,7 +26,7 @@ Your website must have the following sections:
 - Footer
 - Contact form
 
-You'll have time to work on these sections during studio time this week.
+You'll have time to work on these sections during each day of studio time this week.
 
 ## Starter code
 
@@ -69,11 +69,11 @@ to stick to throughout the design.
 Since this is **your** website, we'll walkthrough how you can pick and configure your own fonts to
 use from [google fonts](https://fonts.google.com/):
 
-- [🎥 google fonts walkthrough]()
+- [🎥 google fonts walkthrough](https://vimeo.com/715840608)
 
 We'll also walkthrough how you can use high quality images from [freepik](https://www.freepik.com/):
 
-- [🎥 freekpik walkthrough]()
+- [🎥 freekpik walkthrough](https://vimeo.com/715840407)
 
 ### Sections to work on today
 

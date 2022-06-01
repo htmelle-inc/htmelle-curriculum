@@ -5,6 +5,10 @@ your website so you can share it with other people easily. Once you deploy it, w
 
 ## Deploying
 
+Watch this walkthrough to learn how you can share your site with others!
+
+[🎥  deploying your site](https://vimeo.com/715840868)
+
 ## Add a Contact Form section
 
 The contact form is a form that a user could use to submit a question. Your form should at minimum
