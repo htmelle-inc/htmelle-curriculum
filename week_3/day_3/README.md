@@ -35,7 +35,7 @@ Watch Alvin create his FAQ for Airbnbark.
 
 - [🎥 Airbnbark FAQ walkthrough](https://vimeo.com/715345131)
 
-![FAQ](./images/FAQ.png)
+![FAQ](./images/faq.png)
 
 #### Footer
 
