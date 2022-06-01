@@ -1,7 +1,8 @@
 # Week 3 Day 1
 
 Welcome to capstone project week! Over the past two weeks you've learned how to make amazing layouts
-using HTML and CSS. Now it's time for you to create your very own startup website!
+using HTML and CSS. Now it's time for you to create your very own startup website! Your website
+should look good on desktop screens as well as mobile screens.
 
 You won't have any hard instructions to do this. Your goal is design and implement a website that
 you are proud of. Feel free to reference the different layouts you made in weeks 1 and 2 if you need
@@ -42,18 +43,37 @@ You'll have time to work on these sections during studio time this week.
       tailwind.config = {
         theme: {
           extend: {
-            fontFamily: {
-
-            },
+            fontFamily: {},
           },
         },
       };
     </script>
   </head>
-  <body>
-  </body>
+  <body></body>
 </html>
 ```
+
+## Picking a theme
+
+- [fontawesome](https://fontawesome.com/)
+- [tailwindcss colors](https://tailwindcss.com/docs/customizing-colors)
+- [google fonts](https://fonts.google.com/)
+- [freepik](https://www.freepik.com/)
+
+Throughout the course you've been using fontawesome for icons and tailwindcss for colors. Since you
+are designing your own site. You should think of what icons you'll need for fontawesome; they should
+be relevant for your website! Likewise decide on a color palette to use for your site. For example,
+Alvin chose orange and blue as his main accent colors. You should also decide on what shade of gray
+to stick to throughout the design.
+
+Since this is **your** website, we'll walkthrough how you can pick and configure your own fonts to
+use from [google fonts](https://fonts.google.com/):
+
+- [🎥 google fonts walkthrough]()
+
+We'll also walkthrough how you can use high quality images from [freepik](https://www.freepik.com/):
+
+- [🎥 freekpik walkthrough]()
 
 ### Sections to work on today
 
@@ -78,10 +98,9 @@ Alvin create his header for Airbnbark. Remember, you can design your site differ
 
 - [🎥 Airbnbark header walkthrough](https://vimeo.com/714787571)
 
-![header](./images/header.png)
-![header_mobile](./images/header_mobile.png)
+![header](./images/header.png) ![header_mobile](./images/header_mobile.png)
 
-#### Hero 
+#### Hero
 
 The hero section should include:
 
@@ -97,9 +116,11 @@ If you need some inspiration on designing a hero, watch Alvin create his hero fo
 
 #### Mission
 
-The mission section should include long text describing the mission of your website. Be thoughtful with what text you use! Don't use placeholder text :).
+The mission section should include long text describing the mission of your website. Be thoughtful
+with what text you use! Don't use placeholder text :).
 
-If you need some inspiration on designing a mission section, watch Alvin create his mission for Airbnbark.
+If you need some inspiration on designing a mission section, watch Alvin create his mission for
+Airbnbark.
 
 - [🎥 Airbnbark mission walkthrough](https://vimeo.com/714995016)
 
