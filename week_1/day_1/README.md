@@ -9,7 +9,7 @@ the next few weeks and set up our accounts on [GitHub](https://github.com/) and
 ## Activities
 
 We'll be using the following starter code for our first lectures. Don't worry! We don't expect you
-to know what this does yet, scroll down to the introductory lecture. We'll explain things there :).
+to know what this does yet, scroll down to the introductory lecture. We'll explain things there :)
 
 ```html
 <!DOCTYPE html>
