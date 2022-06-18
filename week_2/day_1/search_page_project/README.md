@@ -164,7 +164,7 @@ Finally let's wrap up with the footer.
 **This time, try to code up this phase on your own first by following the text instructions. Then
 use the video walkthrough if you get stuck:**
 
-[🎥 Phase 2 Walkthrough](https://vimeo.com/702443079)
+[🎥 Phase 3 Walkthrough](https://vimeo.com/702443079)
 
 ### Styling the footer
 
