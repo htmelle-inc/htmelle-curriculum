@@ -4,6 +4,9 @@ Welcome to the htm.elle technical curriculum! In this video, we'll talk about wh
 the next few weeks and set up our accounts on [GitHub](https://github.com/) and
 [replit](https://replit.com/~)
 
+Here is an example of the fina product that you will be building with us:
+https://github.com/alvin-the-programmer/htmelle-demo-site
+
 - [🎉 Welcome Video](https://vimeo.com/693810303)
 
 ## Activities
