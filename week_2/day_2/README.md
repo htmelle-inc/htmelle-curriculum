@@ -4,4 +4,4 @@ More projects today! Practice makes perfect.
 
 - [🛠️ Recipes Project](./recipes_project/)
 
-- [🛠️ Calculator Project](./calculator_project/)
+- [🛠️ Optional: Calculator Project](./calculator_project/)
