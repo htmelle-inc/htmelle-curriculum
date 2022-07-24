@@ -1,4 +1,4 @@
-# Week 3 Day 3
+# Capstone Part 3
 
 Welcome to the third day of capstone project work! If you have not finished the sections from
 yesterday, feel free to take some time and continue to polish those. You should also start work on
