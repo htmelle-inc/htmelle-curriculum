@@ -125,3 +125,11 @@ Airbnbark.
 - [🎥 Airbnbark mission walkthrough](https://vimeo.com/714995016)
 
 ![mission](./images/mission.png)
+
+### Multiple pages
+
+So far, the different sections of our sites have all been on the same page. For your website, feel
+free to continue this layout or check out this mini-lecture on how you can create multiple pages on
+your site.
+
+- [🎥 Multiple Pages Lecture](https://vimeo.com/732798987)
