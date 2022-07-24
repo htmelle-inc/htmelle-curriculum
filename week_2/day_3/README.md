@@ -1,4 +1,4 @@
-# Optional Projects 2
+# Optional Projects 3
 
 Yet even more projects today! Today we build layouts inspired by Airbnb and Instagram.
 
