@@ -1,4 +1,4 @@
-# Week 3 Day 4
+# Capstone Part 4
 
 Today is the last day of capstone projects! The first thing we'll do today is learn how to deploy
 your website so you can share it with other people easily. Once you deploy it, we'll resume project work and you can work on the final section of your site. 
