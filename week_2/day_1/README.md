@@ -11,4 +11,6 @@ only need to introduce one new concept.
 
 - [🛠️ Mobile Project 1](./mobile_project_1/)
 
+- [🎥 Customizing Colors Lecture](https://vimeo.com/732799055)
+
 - [🛠️ Optional: Mobile Project 2](./mobile_project_2/)
