@@ -5,6 +5,6 @@ explicit project instructions in the READMEs, starting in today's second project
 though! You'll still have the full video walkthrough if you need help figuring out how to implement
 these layouts.
 
-- [🛠️ Htmelle Times Project](./htmelle_times_project/)
+- [🛠️ htmelle Times Project](./htmelle_times_project/)
 
 - [🛠️ Optional: Search Page Project](./search_page_project/)
