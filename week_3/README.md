@@ -1,9 +1,9 @@
 # Week 3
 
-[Day 1](./day_1/)
+[Part 1](./day_1/)
 
-[Day 2](./day_2/)
+[Part 2](./day_2/)
 
-[Day 3](./day_3/)
+[Part 3](./day_3/)
 
-[Day 4](./day_4/)
+[Part 4](./day_4/)
