@@ -4,5 +4,5 @@
 
 [Week 2](./week_2)
 
-[Capstone Week](./week_3)
+[Capstone](./week_3)
 
