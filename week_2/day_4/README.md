@@ -5,4 +5,5 @@ sizes. You'll be able to use everything you learned thus far to implement respon
 only need to introduce one new concept.
 
 - [🛠️ Mobile Project 1](./mobile_project_1/)
-- [🛠️ Mobile Project 2](./mobile_project_2/)
+
+- [🛠️ Optional: Mobile Project 2](./mobile_project_2/)
