@@ -4,14 +4,6 @@ Welcome to the third day of capstone project work! If you have not finished the 
 yesterday, feel free to take some time and continue to polish those. You should also start work on
 the next sections.
 
-### Multiple pages
-
-So far, the different sections of our sites have all been on the same page. For your website, feel
-free to continue this layout or check out this mini-lecture on how you can create multiple pages on
-your site.
-
-- [🎥 Multiple Pages Lecture](https://vimeo.com/732798987)
-
 ### Sections to work on today
 
 Today you should make progress on the following sections and continue working on these sections for
