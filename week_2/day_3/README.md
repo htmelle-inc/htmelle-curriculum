@@ -1,4 +1,4 @@
-# Week 2 Day 3
+# Optional Projects 2
 
 Yet even more projects today! Today we build layouts inspired by Airbnb and Instagram.
 
