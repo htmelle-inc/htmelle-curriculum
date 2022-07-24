@@ -1,6 +1,6 @@
 # Week 3 Day 1
 
-Welcome to capstone project week! Over the past two weeks you've learned how to make amazing layouts
+Welcome to capstone project week! Over the past few days you've learned how to make amazing layouts
 using HTML and CSS. Now it's time for you to create your very own startup website! Your website
 should look good on desktop screens as well as mobile screens.
 
