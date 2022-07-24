@@ -4,7 +4,7 @@
 
 [Optional Projects 1](./day_1/)
 
-[Day 2](./day_2/)
+[Optional Projects 2](./day_2/)
 
-[Day 3](./day_3/)
+[Optional Projects 3](./day_3/)
 
