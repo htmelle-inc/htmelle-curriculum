@@ -1,6 +1,6 @@
 # Week 2
 
-[Day 4](./day_4/)
+[Day 1](./day_4/)
 
 [Day 1](./day_1/)
 
