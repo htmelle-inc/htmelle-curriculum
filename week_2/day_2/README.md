@@ -1,4 +1,4 @@
-# Optional Projects 1
+# Optional Projects 2
 
 Extra projects for more exercises! Practice makes perfect.
 
