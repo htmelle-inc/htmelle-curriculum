@@ -1,7 +1,7 @@
-# Week 2 Day 2
+# Optional Projects
 
-More projects today! Practice makes perfect.
+Extra projects for more exercises! Practice makes perfect.
 
 - [🛠️ Recipes Project](./recipes_project/)
 
-- [🛠️ Optional: Calculator Project](./calculator_project/)
+- [🛠️ Calculator Project](./calculator_project/)
