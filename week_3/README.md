@@ -1,4 +1,4 @@
-# Week 3
+# Capstone Project
 
 [Part 1](./day_1/)
 
